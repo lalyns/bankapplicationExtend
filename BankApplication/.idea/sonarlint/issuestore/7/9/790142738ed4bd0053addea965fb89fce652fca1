@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìñÑ´üÿÿÿÿ
+—
+java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Òøß‹
+O
+java:S2130,"9Use "Integer.parseInt" for this string-to-int conversion.(˜Õöõ
+O
+java:S2130."9Use "Integer.parseInt" for this string-to-int conversion.( Ö¶°
+N
+java:S6213E"8Rename this method to not match a restricted identifier.(ÒÅµ˜
+E
+java:S1197M"*Move the array designators [] to the type.(è¾Œùÿÿÿÿ

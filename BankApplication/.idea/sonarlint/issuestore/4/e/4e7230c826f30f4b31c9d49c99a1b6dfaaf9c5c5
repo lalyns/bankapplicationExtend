@@ -1,0 +1,23 @@
+
+a
+java:S13010"KReplace this "switch" statement by "if" statements to increase readability.(Æõ›±
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ
+œ
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­­•€ùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¸êŒÁøÿÿÿÿ
+<	java:S131S""Add a default case to this switch.(…Ìšôÿÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(š¿ÕĞûÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(ÓøØŞ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(÷ŒÁ§
+L
+java:S1172g"1Remove this unused method parameter "sellection".(­­•€ùÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(øûŒ‚
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(ñüD
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(Ğú“C
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(çÌŸÖıÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ÂÍ¬Ìúÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(·¦ÕÚ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(Üõ‘Áøÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.( ƒÆÙ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(¥ºÉš
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¡£áªùÿÿÿÿ
